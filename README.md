@@ -11,6 +11,6 @@ project-description.pdf
 Start the interactive notebook (Binder) to work on the project:
 https://mybinder.org/v2/gh/kvinell/math-modelling-1-project/master?filepath=train-and-categorize.ipynb
 
-IMPORTANT: Please note that you need to backup your work in case of your browser crashing or similar.
+**IMPORTANT:** Please note that you need to backup your work in case of your browser crashing or similar.
 You can do so by going to File > Download as, and choosing some appropriate file format of your liking.
 Whenever you close the browser window containing your notebook, your work will be lost and a new notebook instance will be started the next time you click the link above.
