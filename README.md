@@ -16,3 +16,5 @@ It will ask you to start the following interactive notebooks (Jupyter/Binder) to
 **IMPORTANT:** Please note that you need to backup your work in case of your browser crashing or similar.
 You can do so by going to "File" > "Download as", and choosing some appropriate file format of your liking.
 Whenever you close the browser window containing your notebook, your work will be lost and a new notebook instance will be started the next time you click the link above.
+
+A very brief introduction video for Jupyter Notebook can be found [here](https://www.youtube.com/watch?v=jZ952vChhuI).
