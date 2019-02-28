@@ -10,8 +10,8 @@ project-description.pdf
 
 It will ask you to start the following interactive notebooks (Jupyter/Binder) to get started on the project:
 
-**(data-exploration.ipynb)** https://mybinder.org/v2/gh/kvinell/math-modelling-1-project/master?filepath=data-exploration.ipynb
-**(train-and-categorize.ipynb)** https://mybinder.org/v2/gh/kvinell/math-modelling-1-project/master?filepath=train-and-categorize.ipynb
+[data-exploration.ipynb](https://mybinder.org/v2/gh/kvinell/math-modelling-1-project/master?filepath=data-exploration.ipynb)
+[train-and-categorize.ipynb](https://mybinder.org/v2/gh/kvinell/math-modelling-1-project/master?filepath=train-and-categorize.ipynb)
 
 **IMPORTANT:** Please note that you need to backup your work in case of your browser crashing or similar.
 You can do so by going to "File" > "Download as", and choosing some appropriate file format of your liking.
