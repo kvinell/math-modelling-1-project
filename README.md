@@ -3,7 +3,7 @@
 # Final Course Project in Mathematical Modelling 1
 
 Your task is to use the interactive notebook to build a Machine Learning model for classifying credit card fraud.
-The theory material could be useful here that has been provided to you during the lecture.
+The theory material (theory.pdf) could be useful here that has been provided to you during the lecture.
 
 The full description of the project can be found in the file:
 project-description.pdf
