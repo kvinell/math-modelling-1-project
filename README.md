@@ -17,4 +17,6 @@ It will ask you to start the following interactive notebooks (Jupyter/Binder) to
 You can do so by going to "File" > "Download as", and choosing some appropriate file format of your liking.
 Whenever you close the browser window containing your notebook, your work will be lost and a new notebook instance will be started the next time you click the link above.
 
+Some examples on the most common Numpy operations can be found in this interactive notebook: [numpy_examples.ipynb](https://mybinder.org/v2/gh/kvinell/math-modelling-1-project/master?filepath=numpy_examples.ipynb)
+
 A very brief introduction video for Jupyter Notebook can be found [here](https://www.youtube.com/watch?v=jZ952vChhuI).
