@@ -1,5 +1,4 @@
 # Contains Python libraries that we use
-seaborn==0.8.1
-pandas==0.23.0
-scikit-learn==0.18.1
-numpy==1.11.3
+pandas==0.24.2
+scikit-learn==0.20.3
+numpy==1.16.3
